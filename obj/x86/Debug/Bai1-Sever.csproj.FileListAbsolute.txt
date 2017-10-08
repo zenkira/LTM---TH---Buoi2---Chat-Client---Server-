@@ -1,0 +1,15 @@
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\bin\Debug\LamKimQuan-Bai2.exe
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan_Bai2.Form1.resources
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan_Bai2.Properties.Resources.resources
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\Bai1-Sever.csproj.GenerateResource.Cache
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan-Bai2.exe
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan-Bai2.pdb
+D:\LamKimQuan-Bai2\LamKimQuan-Bai2\bin\Debug\LamKimQuan-Bai2.pdb
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan-Bai2.exe
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan-Bai2.pdb
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\bin\Debug\LamKimQuan-Bai2.exe
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\bin\Debug\LamKimQuan-Bai2.pdb
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan_Bai2.Form1.resources
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\LamKimQuan_Bai2.Properties.Resources.resources
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\Bai1-Sever.csproj.GenerateResource.Cache
+D:\2.Khoanh\Du lieu hoc tap\HK1 - nam 4\Desktop\LamKimQuan-Bai2\LamKimQuan-Bai2\obj\x86\Debug\Bai1-Sever.csprojResolveAssemblyReference.cache
